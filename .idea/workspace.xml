@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75c8e35c-9f35-4c20-8e53-db72117e3ee7" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/custom.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1340">
+              <caret line="67" column="1" lean-forward="false" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="208" column="7" lean-forward="true" selection-start-line="208" selection-start-column="7" selection-end-line="208" selection-end-column="7" />
+              <folding>
+                <marker date="1515696727614" expanded="true" signature="10420:10426" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo</find>
+      <find>470</find>
+      <find>and</find>
+      <find>Close (Esc)</find>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\n    \&lt;title\&gt;Talentkraft\&lt;\/title\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;custom\.css\&quot;\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;header\&gt;\n            \&lt;nav\&gt;\n                \&lt;div class\=\&quot;logo_container\&quot;\&gt;\n                    \&lt;a href\=\&quot;index\.html\&quot;\&gt;\n                    \&lt;img src\=\&quot;images\/talentKraft\.png\&quot; alt\=\&quot;Talentkraft\&quot;\&gt;\n                    \&lt;\/a\&gt;\n                \&lt;\/div\&gt;\n                \&lt;ul\&gt;\n                    \&lt;li\&gt;\n                        \&lt;a href\=\&quot;\&quot;\&gt;Home\&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\n                        \&lt;a href\=\&quot;\&quot;\&gt;About us\&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li\&gt;\n                        \&lt;a href\=\&quot;\&quot;\&gt;Join the waiting list\&lt;\/a\&gt;\n                    \&lt;\/li\&gt;\n                \&lt;\/ul\&gt;\n            \&lt;\/nav\&gt;\n\n        \&lt;\/header\&gt;\n    \&lt;section class\=\&quot;section1\&quot;\&gt;\n        \&lt;div class\=\&quot;section1_content\&quot;\&gt;\n        \&lt;h1\&gt;Simple Event\-Based Email for Your SaaS\&lt;\/h1\&gt;\n        \&lt;h2\&gt;Overwhelmed with existing automation tools\? Try Userlist\.io \— the simplest way for SaaS companies to observe user behavior and communicate based on actions users take \(or don\'t take\)\.\&lt;\/h2\&gt;\n        \&lt;\/div\&gt;\n        \&lt;div class\=\&quot;image_container\&quot;\&gt;\n            \&lt;img src\=\&quot;images\/website_screen\.png\&quot; alt\=\&quot;website\&quot;\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/section\&gt;\n\n    \&lt;section class\=\&quot;section2\&quot;\&gt;\n\n\n        \&lt;div class\=\&quot;section2_content\&quot;\&gt;\n            \&lt;h2\&gt;Facing any of these problems with your SaaS product\?\&lt;\/h2\&gt;\n            \&lt;ul\&gt;\n                \&lt;li\&gt;\n                    \&lt;p\&gt;\n                        \&lt;i class\=\&quot;fa fa\-times\-circle\-o\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\n                    \&lt;\/p\&gt;\n                    \&lt;p\&gt;\n                        You can\’t figure out individual user journeys\. What exactly did they do before converting\?\n                    \&lt;\/p\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li\&gt;\n                    \&lt;p\&gt;\n                        \&lt;i class\=\&quot;fa fa\-times\-circle\-o\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\n                    \&lt;\/p\&gt;\n                    \&lt;p\&gt;\n                        You can\’t figure out individual user journeys\. What exactly did they do before converting\?\n                    \&lt;\/p\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li\&gt;\n                    \&lt;p\&gt;\n                        \&lt;i class\=\&quot;fa fa\-times\-circle\-o\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\n                    \&lt;\/p\&gt;\n                    \&lt;p\&gt;\n                        You can\’t figure out individual user journeys\. What exactly did they do before converting\?\n                    \&lt;\/p\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li\&gt;\n                    \&lt;p\&gt;\n                        \&lt;i class\=\&quot;fa fa\-times\-circle\-o\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\n                    \&lt;\/p\&gt;\n                    \&lt;p\&gt;\n                        You can\’t figure out individual user journeys\. What exactly did they do before converting\?\n                    \&lt;\/p\&gt;\n                \&lt;\/li\&gt;\n            \&lt;\/ul\&gt;\n            \&lt;h3\&gt;That\'s why we\'re building a new simple tool for you\.\&lt;\/h3\&gt;\n            \&lt;i class\=\&quot;fa fa\-arrow\-down\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\n        \&lt;\/div\&gt;\n\n    \&lt;\/section\&gt;\n    \&lt;section  class\=\&quot;section3\&quot;\&gt;\n        \&lt;div class\=\&quot;section3_content\&quot;\&gt;\n            \&lt;h1\&gt;Everything you need to onboard \&amp; retain your users\&lt;\/h1\&gt;\n            \&lt;ul\&gt;\n                \&lt;li\&gt;\n                    \&lt;p\&gt;\&lt;i class\=\&quot;fa fa\-list\-ul\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/p\&gt;\n                    \&lt;p\&gt;Manage your users in a simple\, beautiful admin panel\&lt;\/p\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li\&gt;\n                    \&lt;p\&gt;\&lt;i class\=\&quot;fa fa\-list\-ul\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/p\&gt;\n                    \&lt;p\&gt;Manage your users in a simple\, beautiful admin panel\&lt;\/p\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li\&gt;\n                    \&lt;p\&gt;\&lt;i class\=\&quot;fa fa\-list\-ul\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/p\&gt;\n                    \&lt;p\&gt;Manage your users in a simple\, beautiful admin panel\&lt;\/p\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li\&gt;\n                    \&lt;p\&gt;\&lt;i class\=\&quot;fa fa\-list\-ul\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/p\&gt;\n                    \&lt;p\&gt;Manage your users in a simple\, beautiful admin panel\&lt;\/p\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li\&gt;\n                    \&lt;p\&gt;\&lt;i class\=\&quot;fa fa\-list\-ul\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/p\&gt;\n                    \&lt;p\&gt;Manage your users in a simple\, beautiful admin panel\&lt;\/p\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li\&gt;\n                    \&lt;p\&gt;\&lt;i class\=\&quot;fa fa\-list\-ul\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/i\&gt;\&lt;\/p\&gt;\n                    \&lt;p\&gt;Manage your users in a simple\, beautiful admin panel\&lt;\/p\&gt;\n                \&lt;\/li\&gt;\n            \&lt;\/ul\&gt;\n        \&lt;\/div\&gt;\n\n    \&lt;\/section\&gt;\n    \&lt;section class\=\&quot;section4\&quot;\&gt;\n        \&lt;div class\=\&quot;section4_content\&quot;\&gt;\n            \&lt;img src\=\&quot;images\/dummyimage\.png\&quot; alt\=\&quot;\&quot;\&gt;\n            \&lt;h2\&gt;\&quot;Other tools are overly complex for what I have to do\. I\'m convinced there has to be a better way\.\&quot;\&lt;\/h2\&gt;\n            \&lt;h3\&gt;\– Jean\-Michel Lacroix\, founder of Capian\&lt;\/h3\&gt;\n        \&lt;\/div\&gt;\n\n    \&lt;\/section\&gt;\n    \&lt;section class\=\&quot;section5\&quot;\&gt;\n        \&lt;div class\=\&quot;section5_content\&quot;\&gt;\n            \&lt;img src\=\&quot;\&quot; alt\=\&quot;\&quot;\&gt;\n            \&lt;h2\&gt;Ready to boost your user engagement\?\&lt;\/h2\&gt;\n            \&lt;h3\&gt;The product is currently in the works\. Sign up with your email below to hear when it\'s live\.\&lt;\/h3\&gt;\n            \&lt;div class\=\&quot;form_container\&quot;\&gt;\n                \&lt;form\&gt;\n                \&lt;input type\=\&quot;email\&quot;\&gt;\n                    \&lt;button\&gt;Sign Up\&lt;\/button\&gt;\n                \&lt;\/form\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/section\&gt;\n\n\&lt;section class\=\&quot;footer\&quot;\&gt;\n\&lt;div class\=\&quot;footer_content\&quot;\&gt;\n    \&lt;h1\&gt;Userlist\.io is proudly crafted by Jane Portman\, Claire Suellentrop\, and Benedikt Deicke\.\n        We believe that SaaS companies deserve simple\,\n        quality tools\. Our goal is to solve real problems experienced by real founders\.\&lt;\/h1\&gt;\n\n    \&lt;div class\=\&quot;footer_link\&quot;\&gt;\n        \&lt;a href\=\&quot;\&quot;\&gt;Learn about the team \&lt;\/a\&gt;\n        \&lt;a href\=\&quot;\&quot;\&gt;Contact us\&lt;\/a\&gt;\n          \n    \&lt;\/div\&gt;\n\n\&lt;\/div\&gt;\n\n\&lt;\/section\&gt;\n\&lt;\/div\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;</find>
+      <find>section1_content</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Utsav\Downloads\talentKraft (1)\talentKraft</dir>
+      <dir>C:\Users\Utsav\Downloads\talentKraft (1)\talentKraft\js</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/css/vegas.css" />
+        <option value="$PROJECT_DIR$/css/ie.css" />
+        <option value="$PROJECT_DIR$/js/animated-gradient.js" />
+        <option value="$PROJECT_DIR$/home-1-gradient-background.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/landing.html" />
+        <option value="$PROJECT_DIR$/custom.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-21" />
+    <option name="y" value="181" />
+    <option name="width" value="1924" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="talentKraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="talentKraft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talentKraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="talentKraft" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talentKraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="talentKraft" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="talentKraft" type="b2602c69:ProjectViewProjectNode" />
+              <item name="talentKraft" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75c8e35c-9f35-4c20-8e53-db72117e3ee7" name="Default" comment="" />
+      <created>1514619149000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514619149000</updated>
+      <workItem from="1514619150214" duration="6466000" />
+      <workItem from="1515681685152" duration="14100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20566000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16354166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16354166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/include/phpmailer/class.phpmailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/phpmailer/class.phpmaileroauth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3169">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ajax/portfolio-item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/phpmailer/VERSION">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/phpmailer/PHPMailerAutoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/phpmailer/get_oauth_token.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/phpmailer/class.smtp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/phpmailer/class.phpmaileroauthgoogle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/apple-touch-icon-114x114.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/apple-touch-icon-72x72.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/overlays/05.png" />
+    <entry file="file://$PROJECT_DIR$/css/custom.css" />
+    <entry file="file://$PROJECT_DIR$/css/ionicons.css" />
+    <entry file="file://$PROJECT_DIR$/css/vegas.css" />
+    <entry file="file://$PROJECT_DIR$/images/AjaxLoader.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png" />
+    <entry file="file://$PROJECT_DIR$/images/logo-dark.png" />
+    <entry file="file://$PROJECT_DIR$/images/grabbing.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modernizr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/overlays/08.png" />
+    <entry file="file://$PROJECT_DIR$/css/overlays/09.png" />
+    <entry file="file://$PROJECT_DIR$/css/overlays/07.png" />
+    <entry file="file://$PROJECT_DIR$/css/overlays/06.png" />
+    <entry file="file://$PROJECT_DIR$/css/overlays/04.png" />
+    <entry file="file://$PROJECT_DIR$/css/overlays/03.png" />
+    <entry file="file://$PROJECT_DIR$/css/overlays/02.png" />
+    <entry file="file://$PROJECT_DIR$/js/respond.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home-1-gradient-background.html" />
+    <entry file="file://$PROJECT_DIR$/js/animated-gradient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-845">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="22" lean-forward="false" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="158" column="9593" lean-forward="false" selection-start-line="158" selection-start-column="9593" selection-end-line="158" selection-end-column="9593" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="728" column="120" lean-forward="false" selection-start-line="728" selection-start-column="120" selection-end-line="728" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jquery.mCustomScrollbar.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flexslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/overlays/01.png" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/talentKraftLogo.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/loading-animation.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Close.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="208" column="7" lean-forward="true" selection-start-line="208" selection-start-column="7" selection-end-line="208" selection-end-column="7" />
+          <folding>
+            <marker date="1515696727614" expanded="true" signature="10420:10426" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1340">
+          <caret line="67" column="1" lean-forward="false" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
